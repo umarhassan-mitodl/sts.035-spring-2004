@@ -7,8 +7,7 @@ file_type: image/jpeg
 image_metadata:
   caption: "U.S. Department of Health, Education, and Welfare, The Seeds of Artificial\
     \ Intelligence: SUMEX-AIM (Washington: Government Printing Office, 1980), p. 6.\
-    \ (Image courtesy of the\_{{% resource_link \"66d95bac-a400-4967-bd94-7e957f5645b5\"\
-    \ \"U.S. Department of Health, Education, and Welfare\" %}}.)"
+    \ (Image courtesy of the\_[U.S. Department of Health, Education, and Welfare](http://www.hhs.gov/).)"
   credit: ''
   image-alt: A strange collage of a doctor, a human brain, a stethoscope, a old reel-to-reel
     computer with a paper tape output coming from his neck.
