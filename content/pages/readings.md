@@ -2,6 +2,8 @@
 content_type: page
 description: All readings and viewings that are required for the STS.035 course.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

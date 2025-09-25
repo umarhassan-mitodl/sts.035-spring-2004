@@ -4,6 +4,8 @@ description: Reading Response, Week 2
 file: /courses/sts-035-the-history-of-computing-spring-2004/eac0013fb3c959593e7c48f6000fae57_2dan.pdf
 file_size: 59437
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
