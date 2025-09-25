@@ -5,6 +5,8 @@ description: 'Facial Recognition: Limited Application in Safety and Security, by
 file: /courses/sts-035-the-history-of-computing-spring-2004/e7be11fdfff1e2b3287276d748a34bef_anthony_final.pdf
 file_size: 40325
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

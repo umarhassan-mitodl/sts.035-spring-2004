@@ -4,6 +4,8 @@ description: Week 4 Reading Response, by Katherine A. Franco
 file: /courses/sts-035-the-history-of-computing-spring-2004/a064678b611fac691c525b8711a8c988_4kathy.pdf
 file_size: 43362
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

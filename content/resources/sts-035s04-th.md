@@ -4,6 +4,8 @@ description: New image Upload
 file: /courses/sts-035-the-history-of-computing-spring-2004/397e97a443c3491fb6f3dbcb76cea2b5_sts-035s04-th.jpg
 file_size: 10260
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "U.S. Department of Health, Education, and Welfare, The Seeds of Artificial\
     \ Intelligence: SUMEX-AIM (Washington: Government Printing Office, 1980), p. 6.\

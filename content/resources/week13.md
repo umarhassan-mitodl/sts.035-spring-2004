@@ -4,6 +4,8 @@ description: Reading Response Paper
 file: /courses/sts-035-the-history-of-computing-spring-2004/709f9d7ba3fd3175996fa1bafbbb0375_week13.pdf
 file_size: 9325
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
