@@ -43,7 +43,7 @@
     "content": "397e97a4-43c3-491f-b6f3-dbcb76cea2b5",
     "website": "sts-035-the-history-of-computing-spring-2004"
   },
-  "hide_download_original": null,
+  "hide_download_original": true,
   "learning_resource_types": [
     "Written Assignments with Examples"
   ],
